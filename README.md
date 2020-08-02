@@ -1,6 +1,6 @@
 # Customer Management Node CLI
 
-A CLI for customer management built with Node, commander, inquirer and mongodb. Works from terminal
+A CLI for customer management built with Node, commander, inquirer and mongodb. Works from terminal with commands to add a customer, find a customer, update a customer, remove customers and list all customers
 
 ## Getting Started
 
